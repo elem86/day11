@@ -4,6 +4,7 @@
 
 🔍 SQL – Ranking, Market Share, and Month-over-Month Growth
 
+
 Today I dove deeper into advanced SQL techniques and built two separate but insightful queries from my mock sales data:
 
 ✅ Query 1: Month-over-Month Growth by Product
@@ -28,12 +29,14 @@ Today I dove deeper into advanced SQL techniques and built two separate but insi
 
   - Sorted results to reveal top market share holders
     📊 This helps identify dominant products in each category — crucial for sales and product strategy.
+    
 
 💡 These SQL patterns are incredibly useful in real-world reporting: growth tracking, competitor benchmarking, and resource allocation.
 
 ⏱️ All built within my 1-hour daily limit.
 
 📂 Full code + CSVs on GitHub: 🔗 https://github.com/elem86/day11
+
 
 #SQL #DataAnalytics #CTE #WindowFunctions #PercentChange #MarketShare #OpenToWork #Day11 #OneProjectADay #LinkedInLearning
 
