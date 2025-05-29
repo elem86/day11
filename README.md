@@ -34,6 +34,7 @@ Today I dove deeper into advanced SQL techniques and built two separate but insi
 ⏱️ All built within my 1-hour daily limit.
 
 📂 Full code + CSVs on GitHub: 🔗 https://github.com/elem86/day11
+
 #SQL #DataAnalytics #CTE #WindowFunctions #PercentChange #MarketShare #OpenToWork #Day11 #OneProjectADay #LinkedInLearning
 
 ![day11](https://github.com/user-attachments/assets/eed56a80-d61a-4dd6-a626-eb2b5c0eb149)
